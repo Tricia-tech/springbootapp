@@ -13,7 +13,6 @@ They've also requested a diagram of the infrastructure you feel would best serve
 Finally, they would like code to provision the infrastructure in the tool of your choice.  They've heard
 great things about `terraform` but are eager for other opportunities that you feel may be better.
 
-There is no time restriction.  We encourage you to implement as much as you feel like.
 
 ## Deliverables:
 
