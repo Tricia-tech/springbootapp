@@ -97,18 +97,4 @@ GitLab CI documentation is here:
 Postgres docker image is here:
 1. https://hub.docker.com/_/postgres
 
-# Process for submitting
 
-1. You can clone the repo:
-![Clone Project](readme/clone-personal-project.png)
-
-1. Create a branch for your work.
-
-1. When done, submit a merge request:
-![Open Merge Request](readme/new-merge-request.png)
-
-    1. Target the merge into master:
-![Your repo to the original](readme/your-repo-to-cf-repo.png)
-
-    1. Make sure to assign the merge request:
-![Assign to Interviewer](readme/assign-and-submit.png)
