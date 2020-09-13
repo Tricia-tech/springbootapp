@@ -1,5 +1,4 @@
-**This document contains confidential and proprietary information of Cardinal Financial Company, LP and cannot be 
-reproduced, distributed, shared or printed without written permission from the company.**
+
 
 # Dev Ops CI Challenge
 
